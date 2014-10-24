@@ -1,4 +1,4 @@
 {
   "project.name" : "git_test",
-  "phabricator.uri" : "https://github.com/nurigo/test.git"
+  "phabricator.uri" : "http://review.nurigo.net"
 }
